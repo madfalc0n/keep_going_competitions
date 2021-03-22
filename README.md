@@ -10,4 +10,4 @@
 | 5    | Dacon  | 2020.06.22 ~ 2020.07.31  | [제주_신용카드_빅데이터_경진대회](https://dacon.io/competitions/official/235615/overview/description/) | 128/411          |                                                     |
 | 6    | NIPA   | 2020.10.30 ~ 2020.11.13  | [태영세라믹 - 타일 이미지 내 미세 Crack 검출](https://ai-korea.kr/info/contestPost.do) | 4/29             |                                                     |
 | 7    | NIPA   | 2020.10.30 ~ 2020.11.13  | [마인즈앤컴퍼니 - 병원 영수증 인식을 위한 OCR 알고리즘 개발](https://ai-korea.kr/info/contestPost.do) | 5/10             |                                                     |
-| 8    | Dacon  | 2021.01.06 ~ 2021.02.03  | [LG 시스템 품질 변화로 인한 사용자 불편 예지 AI 경진대회](https://dacon.io/competitions/official/235687/overview/description/) | 140/418          |                                                     |
+| 8    | Dacon  | 2021.01.06 ~ 2021.02.03  | [LG 시스템 품질 변화로 인한 사용자 불편 예지 AI 경진대회](https://dacon.io/competitions/official/235687/overview/description/) | 140/418          | [Link](src/Dacon_LG_user_complain_predict)          |
