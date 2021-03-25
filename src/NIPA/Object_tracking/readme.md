@@ -1,4 +1,6 @@
-해당 폴더에는 데이터가 존재하지 않음
+# 인터마인즈 - 제조업 활용을 위한 CCTV 영상 내 객체 추적 모델 개발
+
+참고 : 해당 폴더에는 데이터가 존재하지 않음
 
 0. tensorflow 의 models를 기반으로 학습시켰음
     - "https://github.com/tensorflow/models"에서 다운로드 후 사용
