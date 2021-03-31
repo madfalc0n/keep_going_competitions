@@ -12,4 +12,4 @@
 | 7    | NIPA         | 2020.10.30 ~ 2020.11.13  | [태영세라믹 - 타일 이미지 내 미세 Crack 검출](https://ai-korea.kr/info/contestPost.do) | 4/29                             | [Link](src/NIPA/Crack)                              |
 | 8    | NIPA         | 2020.10.30 ~ 2020.11.13  | [마인즈앤컴퍼니 - 병원 영수증 인식을 위한 OCR 알고리즘 개발](https://ai-korea.kr/info/contestPost.do) | 5/10                             | [Link](src/NIPA/OCR)                                |
 | 9    | Dacon        | 2021.01.06 ~ 2021.02.03  | [LG 시스템 품질 변화로 인한 사용자 불편 예지 AI 경진대회](https://dacon.io/competitions/official/235687/overview/description/) | 140/418                          | [Link](src/Dacon_LG_user_complain_predict)          |
-| 10   | 롯데정보통신 | 2021.03.15 ~ 2021.03.26  | [Vision AI 경진대회](https://megaproduct.lotte.net/competitionSummary/6) | 5/105                            | [Link](src/Lotte_Vision_AI)                         |
+| 10   | 롯데정보통신 | 2021.03.15 ~ 2021.03.26  | [유통 진열 상품 분류 경진대회](https://megaproduct.lotte.net/competitionSummary/6) | 5/105                            | [Link](src/Lotte_Vision_AI)                         |
